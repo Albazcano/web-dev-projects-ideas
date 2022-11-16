@@ -6,11 +6,10 @@
 
 ---
 
-**40 project ideas for web developers**
+**39 project ideas for web developers**
 
 - Calculator
 - Quiz App
-- Rock Paper Scissors
 - Note App
 - Stopwatch App
 - QR Code Reader
