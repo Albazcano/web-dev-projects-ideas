@@ -6,14 +6,12 @@
 
 ---
 
-**39 project ideas for web developers**
+**Project ideas for web developers**
 
 - Calculator
 - Quiz App
 - Note App
 - Stopwatch App
-- QR Code Reader
-- Weather App
 - E-Commerce Website
 - Landing Page
 - Password Generator
