@@ -804,4 +804,19 @@ font-size: 14px;
         text-align: start;
     }
    
+    /* Single Product */
+
+    #prodetails {
+      display: flex;
+     flex-direction: column;
+  }
+
+  #prodetails .single-pro-image {
+    width: 100%;
+    margin-right: 0px;
+}
+
+#prodetails .single-pro-details {
+  width: 100%;
+}
 }
