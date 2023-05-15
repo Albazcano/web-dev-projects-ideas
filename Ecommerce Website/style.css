@@ -710,7 +710,7 @@ background-image: url("img/banner/b19.jpg");
 
 /* About Page */
 #page-header.about-header{
-  background-image: url("img/about/banner.png");
+  background-image: url("img/about/banner.jpg");
 }
 
 #about-head{
@@ -953,5 +953,22 @@ background-image: url("img/banner/b19.jpg");
   #blog .blog-details {
     width: 100%;  
   }
-  
+
+  /* About Page */
+  #about-head{
+    flex-direction: column;
+  }
+
+  #about-head img {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+#about-head div{
+  padding-left: 0px;
+ }
+
+ #about-app .video {
+  width: 100%;
+}
 }
